@@ -1,0 +1,158 @@
+header span{
+    color: RGB(237,134,0);
+    font-family: arial-black;
+    font-weight: bolder;
+
+}
+header h1{
+    color: rgb(23,38,53);
+    position: absolute;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+body {
+  margin: 0px;
+}
+header h3{
+      padding-top: 30px;
+      width: 300px;
+      font-size: 30px;
+}
+header p{
+      width: 350px;
+      position: relative;
+}
+header h2{
+    font-size: 15px;
+    background-color: RGB(5,19,30);
+    margin: 0 auto;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #FFF;
+    float:right;
+    position: relative;
+    z-index: 2;
+}
+header img{
+    float: right;
+    width: 350px;
+    left: 50px;
+    position: relative;
+    height: 350px;
+    margin: 0 auto;
+    z-index: 1;
+}
+  header{
+  background-color: RGB(240,240,240);
+  width: 1590px;
+  height: 360px;
+  margin: 0 auto;
+}
+.centralizado{
+    padding-left: 300px;
+    padding-right: 300px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+header nav{
+      float:right;
+      list-style: none;
+      background: RGB(23,38,53);
+      width: 1600px;
+      height: 37px;
+}
+header nav li{
+  padding-left: 50px;
+  display: inline;
+  margin: 20px;
+  color: #FFF;
+  padding-top: 5px;
+}
+
+.centralizado #Fundo{
+    background-color: RGB(237,134,0);
+    color: #FFF;
+    padding: 10px;
+}
+
+.col1 img{
+  width: inherit;
+  height: 200px;
+}
+.col1 h2{
+  -webkit-clip-path:polygon(0 0, 100% 0, 100% 70%, 60% 70%, 50% 100%, 40% 70%, 0 70%);
+  background-color: RGB(23,38,53);
+  height: 38px;
+  color: #FFF;
+  margin: 0 auto;
+}
+.col1 p{
+
+}
+.col1{
+  margin-top: 30px;
+  position: relative;
+  float:left;
+  width: 250px;
+  border: auto;
+  border-width: 4px;
+  border-style: solid;
+  border-color: RGB(240,240,240);
+  margin-left: 40px;
+}
+.col1 #Fundo2{
+  background-color: RGB(237,134,0);
+  color: #FFF;
+  padding: 10px;
+  border-radius: 10px;
+  float:right;
+}
+
+.col2{
+  position: relative;
+  float:left;
+  background-color: RGB(21,38,53);
+  color: #FFF;
+  width: 460px;
+  height: 350px;
+}
+.col2 li{
+    list-style: none;
+    background-color: RGB(5,19,30);
+    margin: 10px;
+    padding: 5px;
+}
+.col2 #Mensagem{
+      background-color: RGB(5,19,30);
+      padding-right: 50px;
+}
+.col2 tr{
+    background-color: RGB(5,19,30);
+}
+.col2 td{
+    padding: 10px;
+}
+.col2 #Fundo3{
+  background-color: RGB(237,134,0);
+  color: #FFF;
+  padding: 10px;
+  border-radius: 10px;
+  float:right;
+  margin-right: 10px;
+}
+button{
+      border: none;
+      background-color: RGB(237,134,0);
+      color: white;
+      
+}
+input{
+  background-color: RGB(5, 19, 30);
+  border: none;
+  color: white;
+}
+footer{
+    background-color: RGB(21,38,53);
+  }
